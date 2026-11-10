@@ -1,0 +1,155 @@
+[
+  {
+    "id": "IN-PB-001",
+    "title": "Post-Employment Non-Compete & Restraint of Trade (Void Ab Initio in India)",
+    "category": "Restrictive Covenants & Employment",
+    "risk_tier": "High Risk",
+    "risk_score": 10,
+    "clause_text": "Employee/Contractor agrees that for a period of two (2) years following the termination or resignation from services for any reason, they shall not directly or indirectly work for, consult for, advise, or join any entity operating in competition with the Company anywhere in India or globally.",
+    "explanation": "Completely VOID under Indian Law. Section 27 of the Indian Contract Act, 1872 explicitly prohibits any agreement in restraint of trade or profession, and unlike US or UK law, Indian courts do not recognize 'reasonable' post-termination non-competes.",
+    "predatory_indicators": [
+      "Post-termination restriction on earning a livelihood",
+      "Prohibits employment with competing Indian or global entities",
+      "Void ab initio under Section 27 of Indian Contract Act, 1872"
+    ],
+    "recommended_countermeasure": "Strike out post-termination non-compete completely. Replace strictly with Non-Disclosure of proprietary trade secrets and a reasonable Non-Solicitation of clients/employees during the term.",
+    "grounded_legal_standard": "Section 27, Indian Contract Act, 1872; Supreme Court of India in Percept D'Mark (India) (P) Ltd. v. Zaheer Khan (2006) 4 SCC 227 & Niranjan Shankar Golikari (1967) 2 SCR 378."
+  },
+  {
+    "id": "IN-PB-002",
+    "title": "Unilateral Appointment of Sole Arbitrator (Illegal under Perkins Eastman)",
+    "category": "Dispute Resolution & Arbitration",
+    "risk_tier": "High Risk",
+    "risk_score": 9,
+    "clause_text": "Any dispute, claim, or controversy arising out of this Agreement shall be referred to arbitration by a Sole Arbitrator appointed unilaterally by the Managing Director / Chief Executive Officer of the Company. The award shall be final and binding.",
+    "explanation": "Strictly ILLEGAL under Indian Arbitration Law. A party interested in the dispute or its nominee cannot unilaterally appoint a sole arbitrator, as it violates the statutory mandate of neutrality.",
+    "predatory_indicators": [
+      "Unilateral appointment power vested solely in one party's Managing Director",
+      "Deprives the counterparty of mutual consensus in arbitrator appointment",
+      "Ineligible under Seventh Schedule of Arbitration Act"
+    ],
+    "recommended_countermeasure": "Require mutual consensus for appointing an independent arbitrator, or provide that arbitration shall be administered by a recognized institutional body (e.g. MCIA, DIAC) or appointed under Section 11 of the Arbitration & Conciliation Act by the High Court.",
+    "grounded_legal_standard": "Section 12(5) read with Seventh Schedule, Arbitration and Conciliation Act, 1996; Supreme Court in Perkins Eastman Architects DPC v. HSCC (India) Ltd. (2020) & TRF Ltd. v. Energo Engineering (2017)."
+  },
+  {
+    "id": "IN-PB-003",
+    "title": "Excessive Employment Bond & Liquidated Resignation Penalty",
+    "category": "Employment & Service Bonds",
+    "risk_tier": "High Risk",
+    "risk_score": 9,
+    "clause_text": "Employee agrees to serve the Company for a minimum period of thirty-six (36) months. In the event Employee resigns or leaves prior to completing said term, Employee shall pay Company a penalty of INR 5,00,000 (Rupees Five Lakhs) as liquidated damages for training and hiring expenses.",
+    "explanation": "Unenforceable in India. Under Section 74 of the Indian Contract Act, companies cannot enforce arbitrary penalty bonds. An employer can only recover actual, verifiable, documented expenses incurred on specialized employee training.",
+    "predatory_indicators": [
+      "Exorbitant arbitrary penalty sum (INR 5,00,000)",
+      "Ties employee down without genuine specialized training investment",
+      "Violates public policy and fundamental right to practice a profession (Article 19(1)(g))"
+    ],
+    "recommended_countermeasure": "Limit any recovery strictly to actual, itemized, and verified specialized external training costs on a pro-rata basis, with a maximum notice period of 30-90 days or salary in lieu thereof.",
+    "grounded_legal_standard": "Section 74, Indian Contract Act, 1872; Supreme Court in Fateh Chand v. Balkishan Dass (1963) & Kailash Nath Associates v. DDA (2015); Article 19(1)(g) of the Constitution of India."
+  },
+  {
+    "id": "IN-PB-004",
+    "title": "Unilateral Uncapped Indemnification & Consequential Loss",
+    "category": "Indemnification & Liability",
+    "risk_tier": "High Risk",
+    "risk_score": 8,
+    "clause_text": "Vendor/Client shall indemnify, defend, and hold harmless Company, its directors, and agents from any and all losses, third-party claims, costs, or damages (including indirect, special, and consequential losses and full advocate fees) arising out of this Agreement, regardless of Company's contributory negligence.",
+    "explanation": "Severely one-sided. Under Sections 124 & 125 of the Indian Contract Act, indemnity must reflect reasonable loss. Imposing unlimited liability covering indirect/consequential damages and sole/contributory negligence is an unconscionable contract term.",
+    "predatory_indicators": [
+      "One-sided indemnity without mutual reciprocity",
+      "Captures indirect and consequential losses",
+      "Absolves other party of its own contributory negligence",
+      "No monetary ceiling"
+    ],
+    "recommended_countermeasure": "Insert a mutual indemnity; cap aggregate liability to total fees paid under the contract in the preceding 12 months; expressly exclude indirect/consequential losses as per Section 73 of the Indian Contract Act.",
+    "grounded_legal_standard": "Sections 73, 124, and 125 of the Indian Contract Act, 1872; Doctrine of Unconscionability in Central Inland Water Transport Corp. v. Brojo Nath Ganguly (1986)."
+  },
+  {
+    "id": "IN-PB-005",
+    "title": "Unilateral Termination with Accrued Fee / Security Deposit Forfeiture",
+    "category": "Termination & Remedies",
+    "risk_tier": "High Risk",
+    "risk_score": 8,
+    "clause_text": "Company reserves the unilateral right to terminate this Agreement at any time without cause upon twenty-four (24) hours' written notice. Upon such termination, Service Provider shall forfeit all accrued and unpaid fees for services rendered prior to termination and Landlord/Company shall retain 100% of the security deposit.",
+    "explanation": "Creates unjust enrichment and violates Section 74 of the Indian Contract Act. A party cannot withhold fees for services already delivered or forfeit security deposits without proving actual legal injury.",
+    "predatory_indicators": [
+      "24-hour termination without cause",
+      "Forfeiture of earned fees for work already performed",
+      "Unilateral forfeiture of security deposit without genuine damage"
+    ],
+    "recommended_countermeasure": "Require at least 30 days written notice for termination for convenience. Ensure clause guarantees immediate payment for all work performed up to the date of termination and full refund of security deposits within 15 days.",
+    "grounded_legal_standard": "Section 73 & 74, Indian Contract Act, 1872; Section 2(46), Consumer Protection Act, 2019 (Unfair Contract Terms)."
+  },
+  {
+    "id": "IN-PB-006",
+    "title": "Unreasonable Restraint on Legal Proceedings & Jurisdiction Ouster",
+    "category": "Governing Law & Legal Proceedings",
+    "risk_tier": "High Risk",
+    "risk_score": 8,
+    "clause_text": "No claim, dispute, or lawsuit arising out of this Agreement may be brought by Contractor after the expiry of thirty (30) days from the date the dispute arose. The courts of a remote jurisdiction where neither party resides shall have exclusive jurisdiction.",
+    "explanation": "VOID under Section 28 of the Indian Contract Act. Any contract clause that curtails the statutory period of limitation (3 years under the Limitation Act, 1963) or completely restricts a party from enforcing their legal rights in competent courts is void.",
+    "predatory_indicators": [
+      "Curtails the statutory 3-year limitation period down to 30 days",
+      "Ouster of jurisdiction to a court where no cause of action arose",
+      "Void under Section 28 of ICA"
+    ],
+    "recommended_countermeasure": "Strike the shortened limitation window. Specify jurisdiction of courts where cause of action actually arises or where the defendant resides (e.g. Courts of Bengaluru, Mumbai, or New Delhi).",
+    "grounded_legal_standard": "Section 28, Indian Contract Act, 1872; The Limitation Act, 1963; Supreme Court in ABC Laminart Pvt. Ltd. v. A.P. Agencies (1989)."
+  },
+  {
+    "id": "IN-PB-007",
+    "title": "Blanket Digital Data Harvesting without Consent (DPDP Act Violation)",
+    "category": "Data Privacy & Digital Personal Data",
+    "risk_tier": "Moderate Risk",
+    "risk_score": 7,
+    "clause_text": "Company shall have the unrestricted right to collect, process, sell, and transfer all employee, contractor, and user personal data, biometric records, and communication logs to third parties globally without separate notice, consent, or opt-out rights.",
+    "explanation": "Violates the Digital Personal Data Protection Act, 2023 (DPDP Act). Under Indian law, processing of personal data requires specific, informed, unconditional, and unambiguous consent with a clear notice specifying the exact purpose.",
+    "predatory_indicators": [
+      "Blanket bundling of consent without purpose limitation",
+      "Absence of withdrawal of consent mechanism",
+      "Violates Sections 5 & 6 of the DPDP Act, 2023"
+    ],
+    "recommended_countermeasure": "Incorporate standard DPDP-compliant data processing terms specifying exact lawful purpose, data minimization, secure handling, and right to withdrawal of consent.",
+    "grounded_legal_standard": "Digital Personal Data Protection Act, 2023 (DPDP Act) Sections 5, 6, and 16; IT (Reasonable Security Practices and Procedures and Sensitive Personal Data) Rules, 2011."
+  },
+  {
+    "id": "IN-PB-008",
+    "title": "Overbroad Copyright & IP Assignment without Statutory Territory/Mode",
+    "category": "Intellectual Property & Copyright",
+    "risk_tier": "Moderate Risk",
+    "risk_score": 6,
+    "clause_text": "Contractor hereby assigns all worldwide intellectual property rights, inventions, and software code utilized or created, without limitation of territory, medium, or royalty share, and waives all moral rights.",
+    "explanation": "Under Section 19 of the Indian Copyright Act, 1957, an assignment must clearly specify the rights assigned, duration, territorial extent, and royalty. If territory is not stated, it is deemed limited to India; if duration is not stated, it lapses in 5 years.",
+    "predatory_indicators": [
+      "Attempts to capture pre-existing background tools without carve-out",
+      "Vague assignment failing statutory requirements of Section 19",
+      "Waiver of inalienable moral rights under Section 57"
+    ],
+    "recommended_countermeasure": "Explicitly identify Background IP and carve it out. Ensure assignment specifies clear scope, territory, and full consideration as required under Section 19 of the Indian Copyright Act.",
+    "grounded_legal_standard": "Sections 17, 19, and 57 of the Copyright Act, 1957; Patents Act, 1970."
+  },
+  {
+    "id": "IN-PB-009",
+    "title": "Bilateral Mutual Confidentiality with Standard Exclusions (Safe)",
+    "category": "Confidentiality & Non-Disclosure",
+    "risk_tier": "Safe",
+    "risk_score": 1,
+    "clause_text": "Each party agrees to hold the other party's Confidential Information in strict confidence and protect it using at least reasonable care. Confidential Information shall exclude information that: (a) is or becomes publicly known through no breach; (b) was already in recipient's rightful possession; (c) is independently developed; or (d) is required to be disclosed under Indian law or regulatory order, provided prompt notice is given.",
+    "explanation": "Standard, balanced bilateral confidentiality clause fully enforceable under Indian law. Protects both parties equally with customary carve-outs.",
+    "predatory_indicators": [],
+    "recommended_countermeasure": "Accept as written. Standard bilateral protection under Indian commercial practice.",
+    "grounded_legal_standard": "Indian Contract Act, 1872; Common Law Duty of Confidence in India (Tarun Wadhwa v. Sushil Wadhwa)."
+  },
+  {
+    "id": "IN-PB-010",
+    "title": "Balanced Limitation of Liability & Good-Faith Conciliation (Safe)",
+    "category": "Limitation of Liability & Boilerplate",
+    "risk_tier": "Safe",
+    "risk_score": 2,
+    "clause_text": "Except for breaches of confidentiality or third-party statutory indemnification, neither party shall be liable for indirect or consequential damages. Each party's aggregate cumulative liability shall be capped at the total fees paid or payable under this Agreement in the twelve (12) months preceding the claim. Parties agree to attempt informal amicable settlement for thirty (30) days prior to formal dispute resolution.",
+    "explanation": "Fair, reciprocal limitation of liability fully compliant with Section 73 of the Indian Contract Act. Excludes remote/indirect damages and provides an amicable cure period.",
+    "predatory_indicators": [],
+    "recommended_countermeasure": "Accept as written. Represents best-practice commercial risk allocation in India.",
+    "grounded_legal_standard": "Section 73, Indian Contract Act, 1872 (Hadley v. Baxendale rule applied in India)."
+  }
+]
