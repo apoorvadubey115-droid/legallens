@@ -1,0 +1,18 @@
+ENTERPRISE CLOUD SOFTWARE SERVICES AGREEMENT
+
+This Enterprise Agreement ("Agreement") is entered into between SecureCloud Technologies Inc. ("Provider") and Enterprise Customer ("Customer").
+
+SECTION 1: SERVICE AVAILABILITY & DOWNTIME REMEDIES
+Provider warrants that the Hosted Services shall maintain 99.9% Monthly Uptime Percentage, excluding scheduled maintenance announced with at least five (5) days' prior notice. In the event Provider fails to meet this commitment in any calendar month, Customer shall receive a pro-rata service credit of 15% of monthly fees for uptime between 99.0% and 99.8%, and 30% for uptime below 99.0%, credited against future invoices.
+
+SECTION 2: CUSTOMER DATA OWNERSHIP & SECURITY COMPLIANCE
+Customer retains sole and exclusive ownership of all right, title, and interest in and to Customer Data. Provider shall implement administrative, physical, and technical safeguards compliant with SOC 2 Type II and ISO/IEC 27001 standards. Upon termination of this Agreement, Provider shall deliver an export of all Customer Data within thirty (30) days and securely delete all remaining copies.
+
+SECTION 3: MUTUAL INDEMNIFICATION
+Provider shall defend, indemnify, and hold harmless Customer against any third-party claim alleging that the Services infringe any valid copyright, patent, or trademark. Customer shall defend, indemnify, and hold harmless Provider against third-party claims arising from Customer Data uploaded in violation of applicable privacy laws.
+
+SECTION 4: BALANCED LIMITATION OF LIABILITY
+Except for breaches of confidentiality, gross negligence, or third-party indemnification obligations under Section 3, neither party shall be liable for indirect, incidental, special, or consequential damages. In no event shall either party's aggregate cumulative liability exceed the total amounts paid or payable under this Agreement in the twelve (12) months preceding the incident.
+
+SECTION 5: TERMINATION & WIND-DOWN
+Either party may terminate this Agreement: (a) for material breach upon thirty (30) days' written notice if uncured; or (b) upon ninety (90) days' written notice prior to annual renewal. Provider shall not increase recurring subscription rates by more than five percent (5%) upon any annual renewal.
