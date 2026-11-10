@@ -1,0 +1,15 @@
+CLOUD SOFTWARE SUBSCRIPTION AND LICENSE TERMS
+
+Customer accepts these Terms upon checking the acceptance box during signup.
+
+CLAUSE 1: AUTO-RENEWAL AND ESCALATING COMMITMENT
+Subscriptions shall automatically renew for additional thirty-six (36) month terms at an increased recurring fee of 25% above the prior term, unless Customer delivers physical written notice via registered mail strictly between ninety (90) and eighty-five (85) days prior to term renewal. Notices outside this five-day period shall be deemed null and void.
+
+CLAUSE 2: SERVICE UPTIME DISCLAIMER
+Provider shall use commercially reasonable efforts to maintain platform uptime. However, Provider offers no uptime SLA, provides no financial credits for unscheduled downtime, and accepts no liability whatsoever for data loss, server outage, or interrupted operations.
+
+CLAUSE 3: RESTRICTIVE DATA USAGE
+Customer grants Provider a perpetual, royalty-free, worldwide license to aggregate, analyze, sell, and commercialize all telemetry and confidential business metrics uploaded to the service.
+
+CLAUSE 4: ASYMMETRIC LIMITATION OF LIABILITY
+Provider's aggregate cumulative liability to Customer for any claim arising out of this Agreement, whether in contract or tort, shall be strictly capped at the total amount paid by Customer in the thirty (30) days preceding the event giving rise to liability, not to exceed $100.
