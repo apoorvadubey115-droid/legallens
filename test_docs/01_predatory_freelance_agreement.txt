@@ -1,0 +1,18 @@
+INDEPENDENT CONTRACTOR & CONSULTING AGREEMENT
+
+This Consulting Agreement ("Agreement") is entered into by and between GlobalTech Enterprises ("Client") and the undersigned independent contractor ("Consultant").
+
+SECTION 1: SERVICES AND UNILATERAL TERMINATION
+Client reserves the sole and unrestricted right to terminate this Agreement at any time, with or without cause, upon twelve (12) hours' prior written notice. In the event of such termination, Consultant shall immediately forfeit all rights to any accrued, billed, or unpaid fees for services rendered prior to the date of termination.
+
+SECTION 2: PROPRIETARY RIGHTS & BACKGROUND IP SURRENDER
+Consultant hereby irrevocably assigns, transfers, and conveys to Client all worldwide right, title, and interest in and to all inventions, software code, tools, methodologies, pre-existing frameworks, and proprietary know-how utilized or touched by Consultant during the performance of services under this Agreement, without any reservation of background rights.
+
+SECTION 3: RESTRICTIVE COVENANTS AND POST-TERMINATION NON-COMPETE
+Consultant agrees that for a period of eight (8) years following the termination of this Agreement for any reason, Consultant shall not directly or indirectly engage in, perform consulting services for, advise, invest in, or be employed by any enterprise that offers technology or software services anywhere in the world.
+
+SECTION 4: UNLIMITED UNILATERAL INDEMNIFICATION
+Consultant shall defend, indemnify, and hold harmless Client, its parent companies, subsidiaries, directors, and officers against any and all claims, liabilities, judgments, damages, punitive awards, or legal expenses arising out of this Agreement or the Deliverables, including any claims resulting from Client's own active or contributory negligence.
+
+SECTION 5: DISPUTE FORUM AND EXPENSE SHIFTING
+Any dispute arising under this Agreement shall be resolved exclusively through private arbitration conducted in Geneva, Switzerland. Regardless of the arbitrator's final ruling, Consultant shall pay one hundred percent (100%) of all arbitration administrative fees, travel costs, and Client's attorney fees.
