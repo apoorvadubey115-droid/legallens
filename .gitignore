@@ -1,0 +1,20 @@
+# Sensitive credentials
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# ChromaDB local storage (will auto-reseed on cloud start)
+chroma_legal_db/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
