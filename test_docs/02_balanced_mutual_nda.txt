@@ -1,0 +1,21 @@
+STANDARD MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into between Acme Corporation and Beta Innovations Inc. ("Parties").
+
+1. PURPOSE & CONFIDENTIAL INFORMATION
+The Parties wish to explore a potential business relationship ("Purpose"). "Confidential Information" means any technical, business, or financial data disclosed by either party to the other, marked as confidential or that reasonably should be understood to be confidential.
+
+2. STANDARD OF CARE
+Each party agrees to hold the other party's Confidential Information in strict confidence and use the same standard of care it uses to protect its own confidential information, but in no event less than a reasonable standard of care.
+
+3. RECOGNIZED STATUTORY CARVE-OUTS
+Confidential Information does not include information that: (a) is or becomes publicly known through no breach of recipient; (b) was already in recipient's rightful possession without restriction prior to disclosure; (c) is independently developed without reference to discloser's information; or (d) is disclosed pursuant to lawful judicial or regulatory order.
+
+4. TERM & DURATION
+The confidentiality obligations under this Agreement shall expire two (2) years from the date of disclosure.
+
+5. BALANCED LIMITATION OF REMEDIES
+Neither party shall be liable for indirect, special, incidental, or consequential damages. In no event shall either party's cumulative liability under this Agreement exceed $25,000.
+
+6. SEVERABILITY & GOVERNING LAW
+If any provision of this Agreement is held to be invalid, the remaining provisions shall remain in full force. The parties agree to negotiate in good faith for 30 days prior to initiating formal litigation in the state of Delaware.
